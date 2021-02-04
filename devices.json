@@ -1,0 +1,90 @@
+{
+  "totalDevices": 17,
+  "devices": {
+    "whyred": {
+      "codename": "whyred",
+      "maintainer": "Reza Adi Pangestu",
+      "model_name": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lavender": {
+      "codename": "lavender",
+      "maintainer": "Jody Yuantoro",
+      "model_name": "Xiaomi Redmi Note 7/7s"
+    },
+    "mido": {
+      "codename": "mido",
+      "maintainer": "Smokey",
+      "model_name": "Xiaomi Redmi Note 4"
+    },
+    "ulysse": {
+      "codename": "ulysse",
+      "maintainer": "R. Adi Permana",
+      "model_name": "Redmi Note 5A Lite/Prime"
+    },
+    "tissot": {
+      "codename": "tissot",
+      "maintainer": "Aprianto WPJ",
+      "model_name": "Xiaomi Redmi A1"
+    },
+    "ginkgo": {
+      "codename": "ginkgo",
+      "maintainer": "Introdructor",
+      "model_name": "Xiaomi Redmi Note 8/8T"
+    },
+    "begonia": {
+      "codename": "begonia",
+      "maintainer": "P Sambit Kumar",
+      "model_name": "Xiaomi Redmi Note 8 Pro"
+     },
+    "miatoll": {
+      "codename": "miatoll",
+      "maintainer": "Aprianto WPJ",
+      "model_name": "Redmi Note 9S/9Pro/9Pro Max"
+     },
+    "ysl": {
+      "codename": "ysl",
+      "maintainer": "Hatsune71",
+      "model_name": "Redmi S2/Y2"
+    },
+    "surya": {
+      "codename": "surya",
+      "maintainer": "Kubil Hadinata",
+      "model_name": "Pocophone X3 NFC"
+    },
+    "beryllium": {
+      "codename": "beryllium",
+      "maintainer": "Harun Al Rasyid",
+      "model_name": "Pocophone F1"
+     },
+    "Z01R": {
+      "codename": "Z01R",
+      "maintainer": "Ayan Mukherjee",
+      "model_name": "Asus Zenfone 5z"
+      },
+    "X01BD": {
+      "codename": "X01BD",
+      "maintainer": "Ahmed Shaikh",
+      "model_name": "Asus Max Pro M2"
+      },
+    "RMX1901": {
+      "codename": "RMX1901",
+      "maintainer": "Satham Hussain",
+      "model_name": "Realme X"
+       },
+    "RMX1921": {
+      "codename": "RMX1921",
+      "maintainer": "Kader Bava",
+      "model_name": "Realme XT"
+      },
+    "PL2_sprout": {
+      "codename": "PL2_sprout",
+      "maintainer": "ANKIT KENE",
+      "model_name": "Nokia 6.1 (2018)"
+      },
+    "DRG_sprout": {
+      "codename": "DRG_sprout",
+      "maintainer": "ANKIT KENE",
+      "model_name": "Nokia 6.1 Plus"
+    }
+  }
+}
