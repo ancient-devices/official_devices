@@ -3,12 +3,12 @@
       "codename": "PL2_sprout",
       "maintainer": "ANKIT KENE",
       "model_name": "Nokia 6.1 (2018)"
-      "Device_image": https://cdn2.gsmarena.com/vv/pics/nokia/nokia-6-2018-1.jpg
+      "Device_image":" https://cdn2.gsmarena.com/vv/pics/nokia/nokia-6-2018-1.jpg"
     },
     {
       "codename": "DRG_sprout",
       "maintainer": "ANKIT KENE",
       "model_name": "Nokia 6.1 Plus"
-      "Device_image": https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x6-3.jpg
+      "Device_image": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x6-3.jpg"
     }
 }
